@@ -1,0 +1,5 @@
+{
+  "BASE_URL": "https://jsonplaceholder.typicode.com",
+  "REQUEST_TIMEOUT": "45s",
+  "AUTH_TOKEN": "staging-static-token"
+}
